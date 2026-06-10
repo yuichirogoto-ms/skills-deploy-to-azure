@@ -7,7 +7,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace yuichirogoto-ms with GitHub username ###
+  ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: yuichirogoto-ms-azure-ttt
   AZURE_WEBAPP_NAME: yuichirogoto-ms-ttt-app
